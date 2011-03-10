@@ -25,6 +25,9 @@
     margin: 0.5em 5px;
     text-indent: 1em;
   }
+  q {
+    background-color: #aaa;
+  }
   footer {
     border-top: 1px solid gray;
     padding-top: 1em;
