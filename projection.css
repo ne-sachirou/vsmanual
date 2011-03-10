@@ -1,0 +1,6 @@
+@charset "utf8";
+@media projection {
+  .page {
+    page-break-after: always;
+  }
+}
