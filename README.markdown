@@ -1,3 +1,5 @@
+<b>This document has been obsoleted.</b> Plaese read a new one: [Mastering Note](https://picasaweb.google.com/102533286486656909138/MasteringNote?authuser=0&feat=directlink).
+
 <h1>Sound editing manual for Vocal Society.</h1>
 
 <h2>Editor</h2>
